@@ -8,3 +8,4 @@ Used JS methods like Event handlers, updating, resseting comparing array's using
 
 ![simonApp](https://user-images.githubusercontent.com/77361838/132072520-b6e9b33c-106e-4ec6-b3f7-b2733e0fcbd5.png)
 
+Live Code: https://simonapp.netlify.app/
